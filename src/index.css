@@ -1,0 +1,9 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: url(http://www.script-tutorials.com/demos/360/images/stars.png)
+    top center #000;
+}
